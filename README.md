@@ -31,14 +31,14 @@ This project implements a simple neural network using PyTorch to classify handwr
 
 1. Clone the repository:
    ```
-   git clone <your-repo-url>
-   cd mnist-classifier
+   git clone git@github.com:avvem/MNIST-classifier.git
+   cd MNIST-classifier
    ```
 
 2. Create and activate a virtual environment:
    ```
    python -m venv venv
-   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+   source myenv/bin/activate  # On Windows use `myenv\Scripts\activate`
    ```
 
 3. Install the required packages:
