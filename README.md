@@ -97,4 +97,4 @@ After training, the final model accuracy on the test set is printed. The trained
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+TODO
