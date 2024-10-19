@@ -56,7 +56,7 @@ myenv\Scripts\activate
 With the virtual environment activated, install the required packages:
 
 ```bash
-pip install torch torchvision matplotlib
+pip3 install torch torchvision matplotlib
 ```
 
 ## Usage
@@ -65,7 +65,7 @@ pip install torch torchvision matplotlib
 To train the model, simply run the following command:
 
 ```bash
-python mnist_classifier.py
+python3 mnist_classifier.py
 ```
 
 This will download the MNIST dataset (if not already downloaded), train the model for 5 epochs, and print the test accuracy.
