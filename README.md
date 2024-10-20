@@ -59,11 +59,15 @@ This project implements a simple neural network using PyTorch to classify handwr
 ### Using Python Script:
 
 1. Open a terminal in the project directory.
-2. Run the script:
+2. Activate the virtual environment (potentially):
+   ```
+   source myenv/bin/activate
+   ```
+4. Run the script:
    ```
    python3 mnist_classifier.py
    ```
-3. The training progress will be printed in the console, and visualizations will be saved as 'training_progress.png' after each epoch.
+5. The training progress will be printed in the console, and visualizations will be saved as 'training_progress.png' after each epoch.
 
 ## Project Structure
 
