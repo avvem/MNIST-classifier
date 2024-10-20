@@ -37,13 +37,13 @@ This project implements a simple neural network using PyTorch to classify handwr
 
 2. Create and activate a virtual environment:
    ```
-   python -m venv venv
+   python3 -m venv myenv
    source myenv/bin/activate  # On Windows use `myenv\Scripts\activate`
    ```
 
 3. Install the required packages:
    ```
-   pip install torch torchvision matplotlib jupyter
+   pip3 install torch torchvision matplotlib jupyter
    ```
 
 ## Usage
@@ -61,7 +61,7 @@ This project implements a simple neural network using PyTorch to classify handwr
 1. Open a terminal in the project directory.
 2. Run the script:
    ```
-   python mnist_classifier.py
+   python3 mnist_classifier.py
    ```
 3. The training progress will be printed in the console, and visualizations will be saved as 'training_progress.png' after each epoch.
 
