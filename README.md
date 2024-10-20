@@ -43,7 +43,7 @@ This project implements a simple neural network using PyTorch to classify handwr
 
 3. Install the required packages:
    ```
-   pip3 install torch torchvision matplotlib jupyter
+   pip3 install torch torchvision matplotlib jupyter seaborn scikit-learn
    ```
 
 ## Usage
